@@ -124,5 +124,3 @@ Anushka Vishwakarma
 BCA Student  
 Lucknow, India
 
-## Project Structure
-
